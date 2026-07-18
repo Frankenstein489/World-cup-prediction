@@ -31,3 +31,8 @@ App/.env.local
 Thumbs.db
 
 Pranay/venv/
+__pycache__/
+*.pyc
+.DS_Store
+node_modules/
+EOF
